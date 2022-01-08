@@ -1,0 +1,12 @@
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\bin\Debug\BuyBuyBuy.exe.config
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\bin\Debug\BuyBuyBuy.exe
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\bin\Debug\BuyBuyBuy.pdb
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\bin\Debug\HtmlAgilityPack.dll
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\bin\Debug\HtmlAgilityPack.xml
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\obj\Debug\BuyBuyBuy.csproj.AssemblyReference.cache
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\obj\Debug\BuyBuyBuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\obj\Debug\BuyBuyBuy.csproj.CoreCompileInputs.cache
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\obj\Debug\BuyBuyBuy.csproj.CopyComplete
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\obj\Debug\BuyBuyBuy.exe
+C:\Users\joshw\source\repos\BuyBuyBuy\BuyBuyBuy\obj\Debug\BuyBuyBuy.pdb
